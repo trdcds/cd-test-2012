@@ -1,0 +1,1 @@
+For the build phase we use GitHub plugin, and trigger an build when a change is pushed.
